@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family:'nanumsquare';
+}
+
+.first_container{
+  list-style: none;
+  background-color: #E0E3E8;
+  padding: 80px;
+}
+
+.first_container a{
+  font-size: 13px;
+}
+
+#title {
+  font-size: 40px;
+}
+
+.first_container input{
+  width: 600px;
+  height: 30px;
+  border-style: none;
+  border-radius: 5px;
+}
+
+.Search_Category {
+  display: flex;
+  margin-left: 390px;
+  margin-top: 20px;
+}
+
+.Search_Category li{
+  padding-right: 15px;
+}
